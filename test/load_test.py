@@ -1,6 +1,6 @@
 import os
 
-CWD = "YOUR/WORKING/DIR"
+CWD = os.getcwd()
 Augurat = ['A', 'B', 'P']
 
 def load_test(testSet, test_dir):

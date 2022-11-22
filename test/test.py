@@ -1,8 +1,9 @@
 import time
 import csv
 import sys
+import os
 ############ Please Change ###############################################
-CWD = "YOUR/WORKING/DIR"
+CWD = os.getcwd()
 ##########################################################################
 
 sys.path.insert(1, CWD+r'\test')

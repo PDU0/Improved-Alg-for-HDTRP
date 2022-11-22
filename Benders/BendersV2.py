@@ -817,7 +817,7 @@ def BendersV2(test, name, time_limit, CWD, param='new'):
 
 def main(): # If you want batch testing, go to test.py
     ######## Please change ###################################################
-    CWD = r'YOUR/WORKING/DIR'
+    CWD = r'D:\Project\MATH3205\Improved-Alg-for-HDTRP'
     ##########################################################################
     TestDir = CWD + r'\test\testCases'
     testPath = CWD + r'\test'
